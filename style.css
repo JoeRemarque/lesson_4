@@ -1,0 +1,118 @@
+/* @import "null.css"; */
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Unicase:600,700&display=swap");
+
+@font-face {
+	font-family: "ClarencePro";
+	src: url("fonts/ClarencePro-006.woff2") format("woff2"), url("fonts/ClarencePro-006.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Kuloneth";
+	src: url("fonts/KulonethRegular.woff2") format("woff2"), url("fonts/KulonethRegular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NedLTStd";
+	src: url("fonts/NedLTStd.woff2") format("woff2"), url("fonts/NedLTStd.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: "Stick", sans-serif;
+	font-family: "Comforter", cursive;
+	font-family: 'Cormorant Unicase', serif;
+	font-family: "ClarencePro";
+	font-family: "Kuloneth";
+	font-family: "NedLTStd";
+}
+
+.hrom {
+	font-family: "NedLTStd";
+	color: black;
+	text-align: center;
+	text-decoration: overline;
+	text-shadow: 0px 30px 60px #0de4eb
+}
+
+h1 {
+	font-family: "ClarencePro";
+	text-align: center;
+	font-size: 50px;
+	color: darkgoldenrod;
+	text-shadow: 0px -10px 5px #ebe70d
+}
+
+nav a {
+	color: #885526;
+}
+
+#section1 {
+	font-family: "Cormorant Unicase";
+	text-align: center;
+	font-size: 40px;
+	color: #871cbd;
+}
+
+i {
+	font-family: "ClarencePro";
+	text-align: justify;
+	color: #9e0c0c;
+	text-transform: capitalize;
+	text-shadow: 0px -10px 5px #eb0de0
+}
+
+.text {
+	letter-spacing: 3px;
+	color: #483d8b;
+}
+
+.ppp {
+	word-spacing: 10px;
+	text-transform: uppercase;
+	color: #8fbc8f;
+}
+
+span {
+	text-decoration: line-through;
+	text-transform: uppercase;
+	color: fuchsia;
+}
+
+.two {
+	color: #ff1e8f;
+	text-align: right;
+}
+
+h2 {
+	text-align: center;
+	color: #4c4181;
+}
+
+ol p {
+	color: forestgreen;
+	text-align: center;
+}
+
+ol {
+	text-align: center
+}
+
+a {
+	font-family: "Stick", sans-serif;
+	color: rgb(29, 15, 228);
+}
+
+.link2 {
+	text-align: center;
+}
